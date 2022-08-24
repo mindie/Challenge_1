@@ -5,6 +5,7 @@
 ### Purpose
 
 ## Analysis and Challenges
+![cats2](https://user-images.githubusercontent.com/35781793/186540077-b6745666-5855-4b4e-b055-c749ebdb69e0.jpg)
 
 ### Analysis of Outcomes Based on Launch Date
 
